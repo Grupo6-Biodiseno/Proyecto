@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page3.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2991,7 +2991,7 @@
     "page4.html": {
       "settings": {
         "meta_descr": "Web Generator Description",
-        "title": "SEMANA 1",
+        "title": "SEMANA 2",
         "order": 1
       },
       "components": [
