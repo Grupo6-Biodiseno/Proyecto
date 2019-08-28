@@ -2680,6 +2680,12 @@ body {
 .cid-rAsuvtGmAT .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-rAsuvtGmAT P {
+  color: #ffffff;
+}
+.cid-rAsuvtGmAT H2 {
+  color: #cccccc;
+}
 .cid-rAseCoxQgb {
   padding-top: 30px;
   padding-bottom: 15px;
