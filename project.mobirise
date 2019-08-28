@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page3.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 50,
+    "uniqCompNum": 52,
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png"
   },
@@ -1725,7 +1725,7 @@
             "slides": [
               {
                 "image": "@THEME_PATH@/components/_images/background1.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -1742,7 +1742,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/background2.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
