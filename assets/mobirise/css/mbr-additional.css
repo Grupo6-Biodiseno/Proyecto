@@ -7809,6 +7809,53 @@ body {
     text-align: center;
   }
 }
+.cid-rBKm3CWoHy {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-rBKm3CWoHy .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rBKm3CWoHy .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rBKm3CWoHy .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rBKm3CWoHy .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rBKmbLe8Xm {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #0f7699;
+  background: linear-gradient(45deg, #0f7699, #232323);
+}
+@media (min-width: 992px) {
+  .cid-rBKmbLe8Xm .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rBKmbLe8Xm .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rBKmbLe8Xm .mbr-text {
+    text-align: center;
+  }
+}
 .cid-rBKdFnf9wn {
   padding-top: 60px;
   padding-bottom: 60px;
