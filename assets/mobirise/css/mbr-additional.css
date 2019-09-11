@@ -3169,68 +3169,6 @@ body {
 .cid-rB7yQqEJ4i .card-title {
   text-align: center;
 }
-.cid-rB6a4S7Jwn {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #b2ccd2;
-}
-.cid-rB6a4S7Jwn .line {
-  background-color: #149dcc;
-  color: #149dcc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-rB6a4S7Jwn .section-text {
-  padding: 2rem 0;
-}
-.cid-rB6a4S7Jwn .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rB6a4S7Jwn .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-rB69QpClNU {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-}
-.cid-rB69QpClNU .counter-container {
-  color: #767676;
-}
-.cid-rB69QpClNU .counter-container ol {
-  margin-bottom: 0;
-  counter-reset: myCounter;
-}
-.cid-rB69QpClNU .counter-container ol li {
-  margin-bottom: 1rem;
-}
-.cid-rB69QpClNU .counter-container ol li {
-  list-style: none;
-  padding-left: .5rem;
-}
-.cid-rB69QpClNU .counter-container ol li:before {
-  position: absolute;
-  left: 0px;
-  margin-top: -10px;
-  counter-increment: myCounter;
-  content: counter(myCounter);
-  display: inline-block;
-  text-align: center;
-  margin: 5px 10px;
-  line-height: 40px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #149dcc;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-}
-.cid-rB69QpClNU .mbr-text {
-  text-align: left;
-}
 .cid-rB7f7WeJml {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -5897,8 +5835,8 @@ body {
   text-align: left;
 }
 .cid-rBK06myRfB {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-rBK06myRfB .mbr-text,
