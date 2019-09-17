@@ -2586,17 +2586,22 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rAoXgOb1YY {
-  padding-top: 75px;
+  padding-top: 90px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
 .cid-rAoXgOb1YY P {
   color: #767676;
 }
+.cid-rCiKeTmEbv {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background: linear-gradient(45deg, #232323, #efefef);
+}
 .cid-rAoXZpwLe0 {
   padding-top: 0px;
   padding-bottom: 60px;
-  background-color: #cccccc;
+  background-image: url("../../../assets/images/fondo-1-1280x853.png");
 }
 .cid-rAoXZpwLe0 .mbr-section-subtitle,
 .cid-rAoXZpwLe0 .mbr-text {
