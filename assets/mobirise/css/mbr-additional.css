@@ -8739,14 +8739,6 @@ body {
 .cid-rBK9ipq5yY .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rCiQBmmu8E {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-rCiQBmmu8E P {
-  color: #767676;
-}
 .cid-rCpGepAscc {
   padding-top: 30px;
   padding-bottom: 15px;
@@ -8857,4 +8849,13 @@ body {
 .cid-rCpPe2mvV5 .mbr-text {
   color: #767676;
   text-align: left;
+}
+.cid-rCpZWYVhGy {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rCpZWYVhGy .mbr-text,
+.cid-rCpZWYVhGy blockquote {
+  color: #767676;
 }
