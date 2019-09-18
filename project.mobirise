@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page11.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -6143,7 +6143,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Referencias:</b></p><p>- Jiménez, J. (2012). Costo directo de la lesión medular completa de la columna cervical. Guadalajara: Acta Ortopédica Mexicana.\n</p><p>- McDaid, D. (2019). Understanding and modelling the economic impact of spinal cord injuries in the United Kingdom. London: Nature.\n</p><p>- MINSA. (2013). Análisis epidemiológico de lesiones causadas por accidentes de tránsito en el Perú. Lima: SINCO Editores SAC.\n</p><div><b>\n</b></div><div><b><br></b></div><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Referencias:</b></p><p>1. Jimenez J. Costo directo de la lesión medular completa de la columna cervical. Guadalajara: Acta Ortopédica Mexicana; 2012.</p><p>2. McDaid D. Understanding and modelling the economic impact of spinal cord injuries in the United Kingdom. London: Nature; 2019.</p><p>3. MINSA. Análisis epidemiológico de lesiones causadas por accidentes de tránsito en el Perú. Lima: SINCO Editores SAC; 2013.</p><div><b>\n</b></div><div><b><br></b></div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rBaF3SbaVZ",
           "_anchor": "content1-3g",
           "_protectedParams": [],
