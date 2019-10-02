@@ -10198,8 +10198,17 @@ body {
     width: 100% !important;
   }
 }
+.cid-rDLvKMsdtN {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #efefef;
+}
+.cid-rDLvKMsdtN .mbr-text,
+.cid-rDLvKMsdtN blockquote {
+  color: #767676;
+}
 .cid-rDLqZhiLJl {
-  background: #cccccc;
+  background: #efefef;
   padding-top: 60px;
   padding-bottom: 60px;
 }
