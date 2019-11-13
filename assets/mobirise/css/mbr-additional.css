@@ -13690,3 +13690,24 @@ body {
 .cid-rAs6AqHgut .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rHFDQkpdBB {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rHFDQkpdBB .image-block {
+  margin: auto;
+}
+.cid-rHFDQkpdBB figcaption {
+  position: relative;
+}
+.cid-rHFDQkpdBB figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rHFDQkpdBB .image-block {
+    width: 100% !important;
+  }
+}
