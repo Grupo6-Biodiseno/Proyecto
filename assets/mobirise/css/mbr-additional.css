@@ -13975,3 +13975,98 @@ body {
     width: 100% !important;
   }
 }
+.cid-rHIVxZgr2h {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #efefef;
+}
+.cid-rHIVxZgr2h .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rHIVxZgr2h .section-text {
+  padding: 2rem 0;
+}
+.cid-rHIVxZgr2h .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rHIVxZgr2h .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rHIVssuQAZ {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-rHIVssuQAZ .mbr-text,
+.cid-rHIVssuQAZ blockquote {
+  color: #767676;
+}
+.cid-rHIVzLsswx {
+  padding-top: 15px;
+  padding-bottom: 45px;
+  background: #efefef;
+}
+.cid-rHIVzLsswx .images-container.container-fluid {
+  padding: 0;
+}
+.cid-rHIVzLsswx .media-container-row {
+  margin: 0 auto;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+}
+.cid-rHIVzLsswx .media-container-row .img-item {
+  display: -webkit-flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+  -webkit-flex-direction: column;
+  -webkit-justify-content: center;
+}
+.cid-rHIVzLsswx .media-container-row .img-item img {
+  width: 100%;
+  min-height: 1px;
+}
+.cid-rHIVzLsswx .media-container-row .img-item .img-caption {
+  background: #ffffff;
+  z-index: 2;
+  padding: 1rem 1rem;
+  word-break: break-word;
+}
+.cid-rHIVzLsswx .media-container-row .img-item .img-caption p {
+  margin-bottom: 0;
+}
+.cid-rHIVzLsswx .media-container-row .img-item.item1 {
+  padding: 0 2rem 0 0;
+}
+@media (max-width: 992px) {
+  .cid-rHIVzLsswx .img-item {
+    width: 100% !important;
+  }
+  .cid-rHIVzLsswx .img-item.item1 {
+    width: 100%;
+    flex-basis: initial !important;
+    padding: 0 0 2rem 0 !important;
+    -webkit-flex-basis: initial !important;
+  }
+}
+.cid-rHIVvrnG9a {
+  background: #efefef;
+  padding-top: 0px;
+  padding-bottom: 60px;
+}
+.cid-rHIVvrnG9a .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rHIVvrnG9a .video-block {
+    width: 100% !important;
+  }
+}
