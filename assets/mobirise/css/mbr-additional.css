@@ -16073,9 +16073,39 @@ body {
 .cid-rJFcoFb5E0 blockquote {
   color: #767676;
 }
+.cid-rJFvgjFA7N {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 15px;
+}
+.cid-rJFvgjFA7N .image-block {
+  margin: auto;
+}
+.cid-rJFvgjFA7N figcaption {
+  position: relative;
+}
+.cid-rJFvgjFA7N figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rJFvgjFA7N .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rJFw6yg5KV {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rJFw6yg5KV .mbr-text,
+.cid-rJFw6yg5KV blockquote {
+  color: #767676;
+}
 .cid-rJFdWHx16Q {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-rJFdWHx16Q .mbr-slider .carousel-control {
@@ -16143,4 +16173,13 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rJFxmhmEdz {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rJFxmhmEdz .mbr-text,
+.cid-rJFxmhmEdz blockquote {
+  color: #767676;
 }
